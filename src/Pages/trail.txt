@@ -1,0 +1,17 @@
+      <div>
+        <div className="bg-gray-50 flex justify-center items-center">
+          <div className="w-[50%]">
+            <div className="w-[300px]">
+              <span className="text-orange-400">______ SERVICES</span>
+              <h2 className="text-xl font-bold tracking-tight mb-3 text-black sm:text-2xl sm:leading-10 md:text-3xl md:leading-normal">
+                Every new business milestone is an opportunity to create a
+                compelling solution.
+              </h2>
+            </div>
+          </div>
+          <div className="flex">
+            <img src={webdesign} alt="" />
+            <img src={mobileapps} alt="" />
+          </div>
+        </div>
+      </div>
